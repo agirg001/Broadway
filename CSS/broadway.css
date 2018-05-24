@@ -2,6 +2,12 @@ body {
   font-family: "Helvetica", sans-serif;
 }
 
+h1,
+h2,
+h3, {
+  font-weight: bold;
+}
+
 .header{
   position: relative;
   background-image: url('./Images/the-flatiron-building.png');
@@ -25,10 +31,4 @@ body {
 
 .Ending{
   text-align: center;
-}
-
-h1,
-h2,
-h3, {
-  font-weight: bold;
 }
