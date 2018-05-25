@@ -9,8 +9,7 @@ h3, {
 }
 
 .header{
-  position: relative;
-  background-image: url('./Images/the-flatiron-building.png');
+  background-image: url("../Images/the-flatiron-building.png");
   text-align: center;
   color: white;
 }
@@ -35,4 +34,9 @@ h3, {
 
 .Ending{
   text-align: center;
+}
+
+.Image{
+  background-image: url("../Images/the-flatiron-building.png");
+  color: white;
 }
